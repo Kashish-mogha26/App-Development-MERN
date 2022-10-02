@@ -1,4 +1,8 @@
 # App-Development-MERN
+We are working on a user authentication system application using MERN stack. Work only on the issues which are open and assigned to you.
+<br>DO NOT CREATE PR IF YOU ARE NOT ASSIGNED FOR THAT PARTICULAR ISSUE.
+## NO spam or illogical PRs please.
+
 # :gift: Hacktoberfest 2022
 #### :dart: Let's celebrate Hacktoberfest by getting involved in the open source community and start your journey in open source.
 #### :dart: This repository is open to all the members of the GitHub community. Feel free to contribute to this repository.<br>
